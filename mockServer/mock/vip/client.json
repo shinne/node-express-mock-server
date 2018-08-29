@@ -1,0 +1,9 @@
+{ "success":true,
+  "result":{
+    "token":"176513885",
+    "isLogin":true,
+    "floorInfoList":[]
+  },
+  "code":0
+}
+
